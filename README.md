@@ -78,17 +78,18 @@ arduino
 http://localhost:8501
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![chatbotinterface](https://github.com/user-attachments/assets/85fdb027-adfd-403d-9b62-18c0273b4434)
 
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
+![userprofile](https://github.com/user-attachments/assets/2f644761-e117-453c-9b4f-49089661ce60)
 
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+![userinput](https://github.com/user-attachments/assets/8d042584-170f-427d-8626-edcf0e86cd42)
 
 Diagrams
 ![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
 Build Photos
-![Team](Add photo of your team here)
+
+![photo](https://github.com/user-attachments/assets/5ffb1c3b-5631-4305-b020-27d9985b365a)
 
 ![Components](Add photo of your components here) List out all components shown
 
