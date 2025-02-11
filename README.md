@@ -2,7 +2,7 @@ Dr.Pashupathy 2.0 🎯
 
 Basic Details
 
-Team Name: [Name]
+Team Name: [M & M's]
 Team Members
 Member 1: [Merin Shaji] - [School of Engineering]
 Member 2: [Mariam Byju] - [School of Engineering]
