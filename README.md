@@ -84,22 +84,13 @@ Screenshots (Add at least 3)
 
 ![userinput](https://github.com/user-attachments/assets/8d042584-170f-427d-8626-edcf0e86cd42)
 
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
 
 Build Photos
 
 ![photo](https://github.com/user-attachments/assets/5ffb1c3b-5631-4305-b020-27d9985b365a)
 
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
-
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
 
 https://drive.google.com/file/d/1LNg0HACqKvrUSOkpTwp87fOnarRUrdbh/view?usp=drive_link
 
